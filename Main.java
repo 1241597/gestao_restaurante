@@ -1,4 +1,4 @@
-package TF_lp1;
+package gestao_restaurante;
 
 public class Main {
     public static void main(String[] args) {
