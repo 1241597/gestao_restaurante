@@ -1,8 +1,8 @@
-import menu.MenuPrincipal;
+package TF_lp1;
 
 public class Main {
     public static void main(String[] args) {
-        MenuPrincipal menu = new MenuPrincipal();
-        menu.mostrarMenu();
+        Restaurante restaurante = new Restaurante();
+        restaurante.iniciarDia(); // Inicia a simulação do dia
     }
 }
