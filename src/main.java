@@ -1,6 +1,6 @@
 import menu.MenuPrincipal;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         MenuPrincipal menu = new MenuPrincipal();
         menu.mostrarMenu();
